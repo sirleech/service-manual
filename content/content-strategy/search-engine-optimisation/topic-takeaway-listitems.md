@@ -1,3 +1,0 @@
-- An understanding of SEO techniques
-- Better search results for users
-- Better quality traffic to your website

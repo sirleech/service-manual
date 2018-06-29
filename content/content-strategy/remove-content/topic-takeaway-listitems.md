@@ -1,2 +1,0 @@
-- Less content clutter
-- A clearer, more accurate website

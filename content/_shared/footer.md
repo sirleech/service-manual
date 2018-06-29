@@ -1,6 +1,6 @@
 ---
 layout: structure/footer
-headline: "Digital Guides"
+headline: "LDS"
 mainlist:
   - text: Sitemap
     link: /sitemap

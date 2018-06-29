@@ -1,2 +1,0 @@
-- Endorsement of your content strategy
-- The go-ahead to start

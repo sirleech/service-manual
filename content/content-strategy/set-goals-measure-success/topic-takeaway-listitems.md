@@ -1,2 +1,0 @@
-- Content strategy goals
-- Agreed measures of success

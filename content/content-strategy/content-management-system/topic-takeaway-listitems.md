@@ -1,3 +1,0 @@
-- An understanding of how to choose a CMS
-- An understanding of how to optimise and configure a CMS
-- A [CMS requirements checklist](/content-strategy/content-management-system/cms-requirements-checklist/)
