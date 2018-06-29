@@ -1,0 +1,15 @@
+pagetitle: Learning Design Standards
+weight: 50
+theme: blue
+description:
+  - /_shared/globalheader.md
+  - /_shared/header.md
+  - /_shared/breadcrumbs.md
+header:
+  - header.md
+main:
+  - intro.md #attribution
+  - why.md
+  - /_shared/feedback.md
+footer:
+  - /_shared/footer.md
